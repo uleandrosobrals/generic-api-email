@@ -1,11 +1,6 @@
 <h1 align="center">API Genérica Emails</h1>
 
-## Descrição do Projeto
 
-<!-- <h1 align="center">
-    <a href="#">🔗 API Genérica</a> -->
-</h1>
-<p align="center">🚀 API genérica para envio de email para automações e aplicações.</p>
 
 ### Features
 
@@ -15,10 +10,12 @@
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
 | :sparkles: Nome        | **API Genérica Emails**
-| :label: Tecnologias | Javascript/NodeJS (tecnologias utilizadas)
+| :label: Tecnologias | Javascript/NodeJS
 | :rocket: URL         | https://url-deploy.com.br
 | :fire: Desafio     | https://url-do-desafio.com.br
 
+
+![](https://unsplash.com/photos/EYc-cE1NKtI#vitrinedev)
 
 
 ## Detalhes do projeto
