@@ -19,7 +19,7 @@ const routes = Router();
 *        - application/json 
 *     responses:
 *       '200':
-*         description: Retorna numeros de chamados abertos en curso e cerrados  
+*         description: Retorna email enviados
 */
 routes.post('/api/v1/emailtxt', emailtxt.mailText);
 
