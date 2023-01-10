@@ -15,7 +15,7 @@
 | :fire: Desafio     | https://url-do-desafio.com.br
 
 
-![https://unsplash.com/photos/EYc-cE1NKtI](https://unsplash.com/photos/EYc-cE1NKtI?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink)#vitrinedev
+![](https://unsplash.com/photos/EYc-cE1NKtI?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink#vitrinedev)
 
 
 ## Detalhes do projeto
