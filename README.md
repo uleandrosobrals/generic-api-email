@@ -11,8 +11,8 @@
 | -------------  | --- |
 | :sparkles: Nome        | **API Genérica Emails**
 | :label: Tecnologias | Javascript/NodeJS
-| :rocket: URL         | https://url-deploy.com.br
-| :fire: Desafio     | https://url-do-desafio.com.br
+
+
 
 
 
