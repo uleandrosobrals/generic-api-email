@@ -46,18 +46,3 @@ module.exports={
       });
     }
   }
-//   async mailJson(req, res) {
-//     try{
-//       let(text,html)= req.body
-//       const parserObj = new Parser();
-//       const csv = parserObj.parse();
-//       console.log(csv);
-//   }catch(error){
-//     console.log(error)
-//     return res.status(500).json({
-//       "type":"erro",
-//       "mensage": error.mensage
-//     });
-//   }
-// }
-}
